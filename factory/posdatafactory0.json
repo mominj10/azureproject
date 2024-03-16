@@ -1,0 +1,9 @@
+{
+	"name": "posdatafactory0",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e05bf5fe-076e-4dc2-8012-620c98513a17",
+		"tenantId": "ce8ab8cb-ddad-4798-abd0-0f1494bf00b8"
+	}
+}
